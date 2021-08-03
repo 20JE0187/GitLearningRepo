@@ -31,3 +31,5 @@ class Linkedlist:
         while currentNode!=None:
             print(currentNode.data,end = " ")
             currentNode = currentNode.next
+
+#Code is pushed in Github
